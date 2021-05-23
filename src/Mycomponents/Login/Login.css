@@ -1,0 +1,40 @@
+/* .login-design {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 100vh;
+    max-width: 400px;
+} */
+
+.btn-ls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn-log {
+    width: 20rem;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.btn-sign {
+    width: 20rem;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    height: auto;
+    width: 25rem;
+    margin-left: 48rem;
+    margin-top: 10rem;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}

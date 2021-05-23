@@ -1,0 +1,24 @@
+.btn-sign {
+    width: 18rem;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.card {
+    display: flex;
+    height: auto;
+    width: 25rem;
+    margin-left: 48rem;
+    margin-top: 10rem;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.btn-sn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
